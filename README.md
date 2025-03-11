@@ -1,1 +1,2 @@
-# Functional-Programming-projects
+# Functional-Programming-projects 
+-Simple Bank System Using Functional-Programming approach
